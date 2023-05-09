@@ -1,4 +1,4 @@
-## **Data Science For EveryOne Program** 
+## **Data Science For EveryOne Program (D.S for E)** 
 
 **Data Science For Everyone** Program is LuxDevHQ program that aims to make the field of data science accessible and understandable to a wide range of individuals, regardless of their background or expertise.
 
