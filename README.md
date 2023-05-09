@@ -18,12 +18,20 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
 ### **In the program you will leave:** 
 
 1). Excel  
+
 2). SQL  
+
 3). Python 
+
 4). Git and GitHub
-5). DVCs and DagsHub 
+
+5). DVCs and DagsHub
+
 6). Power BI 
-7). Different career fields in Data  
+
+7). Dockerizing your data project
+
+8). Different career fields in Data  
 
 
 
