@@ -24,7 +24,9 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
 
 Week 1 Article:
 --- 
+
 Week 1 Project
+
 --- 
 
 ### **Week 2: Learn Bascis Data Science Concepts.**
@@ -32,9 +34,11 @@ Week 1 Project
 - Learn about data visualization, exploratory data analysis (EDA), and basic statistical measures.
 
 Week 2 Article: 
+
 ---
 
 Week 2 Project:
+
 ---
 
 ### **Week 3: Learn Intermediate Data Science Concepts.**
@@ -46,7 +50,9 @@ Week 2 Project:
 Week 3 Article: 
 
 --- 
+
 Week 3 Project: Choose a dataset of your interest (can be from Kaggle or any other source), and build a simple machine learning model using Python. Train, evaluate, and fine-tune the model to achieve better performance.
+
 ---
 
 
@@ -57,9 +63,11 @@ Week 3 Project: Choose a dataset of your interest (can be from Kaggle or any oth
 - Discover the diverse career opportunities within the field of data science, including roles like data analyst, data engineer, machine learning engineer, and more.
 
 Week 4 Article: 
+
 ---
 
 Week 5 Project:
+
 ---
 
 
