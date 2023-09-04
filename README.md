@@ -13,6 +13,8 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
 
 #### **Possible Data Sciencce Career Paths**
 
+---
+
 **1). Data Scientist.**
 - Data scientists are responsible for collecting, cleaning, and analyzing large datasets to extract valuable insights and make data-driven decisions. They use various machine learning and statistical techniques to build predictive models and solve complex problems.
   
