@@ -48,6 +48,7 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
 - Understand the fundamentals of data science,  statistics, probability, linear algebra, calculus, Python and SQL  programming langages. You will also learn pandas, numpy, matplotlib and seaborn.
 
 Week 1 Article:
+
 --- 
 
 Week 1 Project
