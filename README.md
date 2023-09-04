@@ -1,4 +1,4 @@
-## **Data Science For EveryOne Mentorship and BootCamp Program** 
+### **Data Science For EveryOne Mentorship and BootCamp Program** 
 
 **Data Science For Everyone** Program is [LuxDevHQ](https://twitter.com/LuxDevHQ) program that aims to make the field of data science accessible and understandable to a wide range of people, regardless of their background or expertise.
 
@@ -10,7 +10,32 @@ This Free Bootcamp emphasizes the need for clear communication, intuitive visual
 
 Overall,  we are aiming to bridge the gap between technical experts and non-technical professionals, enabling a broader audience to leverage the power of data and make informed decisions based on evidence and insights derived from data analysis. 
 
-### **Program information:**
+
+#### **Possible Data Sciencce Career Paths**
+
+**1). Data Scientist.**
+- Data scientists are responsible for collecting, cleaning, and analyzing large datasets to extract valuable insights and make data-driven decisions. They use various machine learning and statistical techniques to build predictive models and solve complex problems.
+  
+- Data scientists often work closely with business stakeholders to identify opportunities for leveraging data to drive business growth.
+
+**2). Data Anlayst.**
+- Data analysts focus on examining data to provide actionable insights to their organizations. They perform data cleaning, data visualization, and basic statistical analysis to help businesses understand trends, patterns, and make informed decisions.
+- Data analysts may work in various industries such as finance, marketing, or healthcare.
+
+**3). Data Engineer.** 
+- Data engineers are responsible for the design, construction, and maintenance of data pipelines and infrastructure. They ensure that data is collected, stored, and made accessible for analysis by data scientists and analysts.
+- Data engineers work with tools like Hadoop, Spark, and databases to manage and process large volumes of data efficiently.
+
+**4). Data Architect.**
+- Data architects design the overall structure and organization of data within an organization. They create data models, define data standards, and ensure data is stored, integrated, and accessed effectively.
+- Data architects play a critical role in establishing data governance and ensuring data quality.
+  
+#### **Note:**
+- These are just a few of the many career paths within the data science and analytics field. Depending on your interests and skills, you may also consider roles such as Machine Learning Engineer, Business Intelligence Analyst, Statistician, or even specialized roles like Natural Language Processing (NLP) Engineer or Computer Vision Engineer. The field of data science is continually evolving, so there are always new opportunities and roles emerging as technology advances and businesses become more data-driven. It's important to choose a path that aligns with your interests and career goals.
+  
+- Also note that we wull not be able to cover all the topics and concepts but we will set a solid foundation for your data career. 
+
+#### **Program information:**
 
 - **Duration:** 4 Weeks.
 - **Learning Mode:** Online with weekly project and technical article.
