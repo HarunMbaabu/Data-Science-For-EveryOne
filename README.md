@@ -57,7 +57,7 @@ Week 1 Classes:
 - Wangui Ngina, Msc, Lecturer and Data Scientist. 
 - Recording: Not Available Yet
   
-(II) Saturday, September 30th, 2023 10:00 AM EAT.
+(ii) Saturday, September 30th, 2023 10:00 AM EAT.
 - Lains Wanjiku, Machine Learning Engineer and Data Analyst. 
 - Recording: Not Available Yet
 
