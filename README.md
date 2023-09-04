@@ -37,9 +37,10 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
   
 - Also note that we wull not be able to cover all the topics and concepts but we will set a solid foundation for your data career. 
 
-#### **Program information:**
+#### **Course Overview - Program information :**
 
-- **Duration:** 4 Weeks.
+- **Duration:** 5 Weeks.
+  
 - **Learning Mode:** Online with weekly project and technical article.
   
 ### **Week 1: Learn the fundamentals of data science.**
