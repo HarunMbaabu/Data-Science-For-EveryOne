@@ -49,7 +49,19 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
 - Familiarize yourself with fundamental mathematical and programming concepts.
 - Learn the basics of Python and SQL for data manipulation and analysis.
 - Understand the fundamentals of data science,  statistics, probability, linear algebra, calculus, Python and SQL  programming langages. You will also learn pandas, numpy, matplotlib and seaborn.
+  
+--- 
+Week 1 Classes: 
 
+(i). Wednesday, September 27th, 2023 8:00 PM EAT.
+- Wangui Ngina, Msc, Lecturer and Data Scientist. 
+- Recording: Not Available Yet
+  
+(II) Saturday, September 30th, 2023 10:00 AM EAT.
+- Lains Wanjiku, Machine Learning Engineer and Data Analyst. 
+- Recording: Not Available Yet
+
+--- 
 Week 1 Article:
 
 --- 
