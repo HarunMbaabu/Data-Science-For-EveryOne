@@ -1,4 +1,4 @@
- "## **Data Science For EveryOne Program (D.S for EveryOne)** 
+## **Data Science For EveryOne Mentorship and BootCamp Program** 
 
 **Data Science For Everyone** Program is [LuxDevHQ](https://twitter.com/LuxDevHQ) program that aims to make the field of data science accessible and understandable to a wide range of people, regardless of their background or expertise.
 
@@ -23,15 +23,19 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
 - Understand the fundamentals of data science,  statistics, probability, linear algebra, calculus, Python and SQL  programming langages. You will also learn pandas, numpy, matplotlib and seaborn.
 
 Week 1 Article:
+--- 
 Week 1 Project
+--- 
 
 ### **Week 2: Learn Bascis Data Science Concepts.**
 - Dive deeper into essential data science concepts.
 - Learn about data visualization, exploratory data analysis (EDA), and basic statistical measures.
 
 Week 2 Article: 
+---
 
 Week 2 Project:
+---
 
 ### **Week 3: Learn Intermediate Data Science Concepts.**
 
@@ -40,7 +44,11 @@ Week 2 Project:
 - Get introduced to machine learning concepts.
   
 Week 3 Article: 
+
+--- 
 Week 3 Project: Choose a dataset of your interest (can be from Kaggle or any other source), and build a simple machine learning model using Python. Train, evaluate, and fine-tune the model to achieve better performance.
+---
+
 
 ### **Week 4: Advanced Data Science Concepts and Career Paths.**
 - Explore advanced topics in data science.
@@ -48,11 +56,11 @@ Week 3 Project: Choose a dataset of your interest (can be from Kaggle or any oth
 - Understand the role of data science in various career fields.
 - Discover the diverse career opportunities within the field of data science, including roles like data analyst, data engineer, machine learning engineer, and more.
 
-Week 3 Article: 
+Week 4 Article: 
+---
 
-Week 3 Project:
-
-
+Week 5 Project:
+---
 
 
 
