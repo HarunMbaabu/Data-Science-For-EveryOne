@@ -45,10 +45,12 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
   
 ### **Week 1: Learn the fundamentals of data science.**
 
-- Understand the key concepts of data science.
-- Familiarize yourself with fundamental mathematical and programming concepts.
-- Learn the basics of Python and SQL for data manipulation and analysis.
-- Understand the fundamentals of data science,  statistics, probability, linear algebra, calculus, Python and SQL  programming langages. You will also learn pandas, numpy, matplotlib and seaborn.
+- Understand the key concepts of data science and the possible data sciencce career paths.
+- Familiarize yourself with fundamental, that is statistical, mathematical, and programming concepts.
+- Learn the basics of Python and SQL for data manipulation, wrangling, and analysis Introduction to SQLand Python for data science.
+- Understand the fundamentals of data science,  statistics, probability, linear algebra, calculus, Python and SQL  programming langages.
+  
+ >> **Tools you will learn on week 1:** Python, SQL, pandas, numpy, matplotlib, seaborn and statistics module whic was introduced in Python 3.4
   
 --- 
 Week 1 Classes: 
@@ -62,11 +64,17 @@ Week 1 Classes:
 - Recording: Not Available Yet
 
 --- 
-Week 1 Article:
+Week 1 Article: Data Science for Beginners: 2023 - 2024 Complete Roadmap.
 
 --- 
 
-Week 1 Project
+Week 1 Projects: 
+
+**Question 1).**  Imagine you're working with Sprint, one of the biggest telecom companies in the USA. They're really keen on figuring out how many customers might decide to leave them in the coming months. Luckily, they've got a bunch of past data about when customers have left before, as well as info about who these customers are, what they've bought, and other things like that.
+
+So, if you were in charge of predicting customer churn how would you go about using machine learning to make a good guess about which customers might leave? Like, what steps would you take to create a machine learning model that can predict if someone's going to leave or not?
+
+**Question 2).** Let’s say you’re a Product Data Scientist at Instagram. How would you measure the success of the Instagram TV product?
 
 --- 
 
