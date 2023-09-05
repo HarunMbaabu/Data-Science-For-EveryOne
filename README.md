@@ -49,6 +49,7 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
 - Familiarize yourself with fundamental, that is statistical, mathematical, and programming concepts.
 - Learn the basics of Python and SQL for data manipulation, wrangling, and analysis Introduction to SQLand Python for data science.
 - Understand the fundamentals of data science,  statistics, probability, linear algebra, calculus, Python and SQL  programming langages.
+- Introduce specific data visualization tools like Matplotlib and Seaborn. Provide hands-on exercises or tutorials for students to create visualizations using these tools.
   
  >> **Tools you will learn on week 1:** Python, SQL, pandas, numpy, matplotlib, seaborn and statistics module whic was introduced in Python 3.4
   
@@ -79,14 +80,33 @@ So, if you were in charge of predicting customer churn how would you go about us
 --- 
 
 ### **Week 2: Learn Bascis Data Science Concepts.**
-- Dive deeper into essential data science concepts.
-- Learn about data visualization, exploratory data analysis (EDA), and basic statistical measures.
 
-Week 2 Article: 
+- Learn about data visualization, exploratory data analysis (EDA), and basic statistical measures.
+- Learn about exploratory data analysis, feature engineering, and modelling using real world data.
+- Learn how problem statements, developing KPIs, Working and collaborating with a remote team, communacation skills, problem solving skills, and to write modern data resume. 
+
+--- 
+Week 2 Classes: 
+
+(i). Wednesday, October 4th, 2023 8:00 PM EAT.
+- Lucille Wanjiku,Data Scientist. 
+- Recording: Not Available Yet
+  
+(ii) Saturday, October 7th, 2023 10:00 AM EAT.
+- Harun Mbaabu Mwenda, Analytics and Data Engineeer. 
+- Recording: Not Available Yet
+
+--- 
+
+Week 2 Article: Exploratory Data Analysis using Data Visualization Techniques.
 
 ---
 
 Week 2 Project:
+
+**Question 1).** Read through this case study and solve it https://statso.io/rfm-analysis-case-study/
+
+**Question 2).** Let’s say we want to build a model to predict booking prices on Airbnb. Between linear regression and random forest regression, which model would perform better and why?
 
 ---
 
