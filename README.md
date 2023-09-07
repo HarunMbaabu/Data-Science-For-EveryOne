@@ -83,7 +83,9 @@ So, if you were in charge of predicting customer churn how would you go about us
 
 - Learn about data visualization, exploratory data analysis (EDA), and basic statistical measures.
 - Learn about exploratory data analysis, feature engineering, and modelling using real world data.
-- Learn how problem statements, developing KPIs, Working and collaborating with a remote team, communacation skills, problem solving skills, and to write modern data resume. 
+- Learn how problem statements, developing KPIs, Working and collaborating with a remote team, communacation skills, problem solving skills, and to write modern data resume.
+
+  >> **Tools you will learn on week 1:** Python, SQL, Pyspark, Problem Solving, and Non Technical Concepts
 
 --- 
 Week 2 Classes: 
