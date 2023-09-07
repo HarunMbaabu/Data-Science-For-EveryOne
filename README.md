@@ -119,18 +119,44 @@ In week 3, you will have some time to explore the different data science career 
 ------
 
 
-### **Week 4: Learn Intermediate Data Science Concepts.**
-- Explore advanced topics in data science.
-- Learn about feature engineering, model evaluation, and validation techniques.
-- Understand the role of data science in various career fields.
-- Discover the diverse career opportunities within the field of data science, including roles like data analyst, data engineer, machine learning engineer, and more.
+### **Week 4: Learn Intermediate Data Science Concepts and Time Series Modeling.**
+- Learn dimensionality reduction techniques, a way to reduce the number of features in a dataset without losing too much information. This will be helpful in improving the performance of machine learning models.
+- Learn feature engineering, the process of transforming raw data into features that are more informative and useful for machine learning models.
+- Learn ensemble learning, a technique that combines multiple machine learning models to improve the overall performance.
+- Learn neural networks, a type of machine learning model that can learn complex relationships between features and labels.
+- LearnTime series analysis modeling, the process of analyzing data that is collected over time. This can be used to forecast future trends or identify patterns in the data.
 
-Week 4 Article: 
+--- 
+Week 4 Classes: 
+
+(i). Wednesday, October 18th, 2023 8:00 PM EAT.
+- ********************, Data Scientist. 
+- Recording: Not Available Yet
+  
+(ii) Saturday, October 21th, 2023 10:00 AM EAT.
+- ********************, Analytics and Data Engineeer. 
+- Recording: Not Available Yet
+
+--- 
+
+**Week 4 Article:** The Complete Guide to Time Series Models
+
+**Week 4 Project:**
+
+Using the Craigslist Vehicles Dataset available on Kaggle (https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles), we'd like you to create a Time-Series Model following the approach outlined below.
+
+**Here are the key steps:**
+- Start by addressing missing values in the dataset. You can handle this by filling in missing values with the median for numerical columns and the mode for categorical columns.
+- Ensure that the data types of the columns are appropriate. Specifically, make sure to convert the 'posting_date' column to a datetime data type.
+- Utilize the 'posting_date' column to create a datetime index for the dataset. This will facilitate the analysis of temporal patterns.
+- With clean data, explore it using various visualizations and statistical analysis techniques. This step is crucial for understanding temporal patterns, identifying seasonal trends, and analyzing demand-supply dynamics by region and vehicle type.
+- build the time-series chart.
+- Finally Create a github Repository and push your work there, also document your proccess through each of the steps and demonstrate your understanding by implementing them on the dataset.
 
 ---
 
 
-### **Week 5 Project: Exploring Data Engineering and  Analytics Engineering.**
+### **Week 5 Project: Exploring Data Engineering and Analytics Engineering with Harun Mbaabu.**
 
 - Clearly differentiate between Data Engineering and  Analytics Engineering.
 - Learn about ETL and ELT and when is the Best Time to use which method.
@@ -139,11 +165,11 @@ Week 4 Article:
 
 --- 
 
-Week 2 Article: Data Engineering for Beginners: A Step-by-Step Guide
+**Week 5 Article:** Data Engineering for Beginners: A Step-by-Step Guide
 
 ---
 
-**Week 2 Project:**
+**Week 5 Project:**
 
 1). Project 1:
 
@@ -162,7 +188,9 @@ In week 4, we performed time series modeling on the Craigslist vehicles dataset,
 
 ---
 
-## **To be eligible for a certificate of completion, you must write four articles of at least 400 words each and complete all four projects. I know you can do this! You are a talented nerds and I believe in you. Writing these articles will help you improve your writing skills and learn a lot about the subject matter. They will also be a valuable addition to your portfolio.**
+### **Note.**
+
+**To be eligible for a certificate of completion, you must write four articles of at least 400 words each and complete all four projects. I know you can do this! You are a talented nerds and I believe in you. Writing these articles will help you improve your writing skills and learn a lot about the subject matter. They will also be a valuable addition to your portfolio.**
 
 
 
