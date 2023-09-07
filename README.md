@@ -137,9 +137,45 @@ Week 4 Article:
 
 ---
 
-Week 5 Project:
+
+
+
+
+
+
+
+### **Week 5 Project: Exploring Data Engineering and  Analytics Engineering.**
+
+- Clearly differentiate between Data Engineering and  Analytics Engineering.
+- Learn about ETL and ELT and when is the Best Time to use which method.
+- Master the modern data stack, how to optmized Python and SQL code, and track metrics, and impact as a team play in a data team.
+- Learn how to write modern data proffession cv/resumes, where you apply for data jobs, how to get started freelancing, and how to ptimize your chances of being hired.
+
+--- 
+
+Week 2 Article: Data Engineering for Beginners: A Step-by-Step Guide
 
 ---
+
+**Week 2 Project:**
+
+1). Project 1:
+
+As a lead data engineer at Data Science East Africa, you are responsible for building a data engineering pipeline to move weather data from a public API to Azure Synapse Analytics. You will then use Power BI to access the data from Azure Synapse Analytics and create a modern dashboard. 
+
+  (i). What are the best practices for moving data from a public API to a data lake?
+  (ii). How can we ensure the security and reliability of the data pipeline?
+  (iii). Implement this project, optimize your proccess, and create a GitHub repository where you will document all the proccesses including Screenshort, and a short video explaining the whole proccess. 
+
+
+2). Project 2.
+
+In week 3, we performed time series modeling on the Craigslist vehicles dataset, which is available on Kaggle at https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles. This project builds on that work. You will need to download the dataset, copy the data using SQL to a local PostgreSQL database, move the data from your local database to Snowflake, perform data transformation with DBT (data build tool), and use your preferred data visualization tool to create a report and dashboard.
+
+---
+
+## **To be eligible for a certificate of completion, you must write five articles of at least 400 words each and complete all five projects. I know you can do this! You are a talented nerds and I believe in you. Writing these articles will help you improve your writing skills and learn a lot about the subject matter. They will also be a valuable addition to your portfolio.**
+
 
 
 
