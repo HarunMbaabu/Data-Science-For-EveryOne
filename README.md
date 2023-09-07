@@ -150,7 +150,9 @@ Week 2 Article: Data Engineering for Beginners: A Step-by-Step Guide
 As a lead data engineer at Data Science East Africa, you are responsible for building a data engineering pipeline to move weather data from a public API to Azure Synapse Analytics. You will then use Power BI to access the data from Azure Synapse Analytics and create a modern dashboard. 
 
   (i). What are the best practices for moving data from a public API to a data lake?
+  
   (ii). How can we ensure the security and reliability of the data pipeline?
+  
   (iii). Implement this project, optimize your proccess, and create a GitHub repository where you will document all the proccesses including Screenshort, and a short video explaining the whole proccess. 
 
 
