@@ -182,7 +182,7 @@ As a lead data engineer at Data Science East Africa, you are responsible for bui
   (iii). Implement this project, optimize your proccess, and create a GitHub repository where you will document all the proccesses including Screenshort, and a short video explaining the whole proccess. 
 
 
-2). Project 2.
+2). Project 5.
 
 In week 4, we performed time series modeling on the Craigslist vehicles dataset, which is available on Kaggle at https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles. This project builds on that work. You will need to download the dataset, copy the data using SQL to a local PostgreSQL database, move the data from your local database to Snowflake, perform data transformation with DBT (data build tool), and use your preferred data visualization tool to create a report and dashboard.
 
