@@ -112,7 +112,7 @@ Week 2 Project:
 
 ---
 
-### **Week 3: Teach Someone Data Science #TeachSomeoneDataScience. 
+### **Week 3: Teach Someone Data Science #TeachSomeoneDataScience.**
 
 You will have week 3 for your self where you can explore the Possible Data Sciencce Career Paths and decided which you will specialize on. Week 3 assignment will be,you  look for someone new in data science and teach them (data science) for atleast 30 minutes, and pick a specific topic around data science and write about it, for example create a data snlysis roadmap on Twitter or LinkedIn 
 
