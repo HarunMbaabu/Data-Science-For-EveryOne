@@ -112,22 +112,14 @@ Week 2 Project:
 
 ---
 
-### **Week 3: Learn Intermediate Data Science Concepts.**
+### **Week 3: Teach Someone Data Science #TeachSomeoneDataScience. 
 
-- Deepen your knowledge of data manipulation and analysis.
-- Understand statistical concepts like hypothesis testing and regression analysis.
-- Get introduced to machine learning concepts.
-  
-Week 3 Article: 
+You will have week 3 for your self where you can explore the Possible Data Sciencce Career Paths and decided which you will specialize on. Week 3 assignment will be,you  look for someone new in data science and teach them (data science) for atleast 30 minutes, and pick a specific topic around data science and write about it, for example create a data snlysis roadmap on Twitter or LinkedIn 
 
---- 
-
-Week 3 Project: Choose a dataset of your interest (can be from Kaggle or any other source), and build a simple machine learning model using Python. Train, evaluate, and fine-tune the model to achieve better performance.
-
----
+------
 
 
-### **Week 4: Advanced Data Science Concepts and Career Paths.**
+### **Week 4: Learn Intermediate Data Science Concepts.**
 - Explore advanced topics in data science.
 - Learn about feature engineering, model evaluation, and validation techniques.
 - Understand the role of data science in various career fields.
@@ -136,12 +128,6 @@ Week 3 Project: Choose a dataset of your interest (can be from Kaggle or any oth
 Week 4 Article: 
 
 ---
-
-
-
-
-
-
 
 
 ### **Week 5 Project: Exploring Data Engineering and  Analytics Engineering.**
@@ -170,11 +156,11 @@ As a lead data engineer at Data Science East Africa, you are responsible for bui
 
 2). Project 2.
 
-In week 3, we performed time series modeling on the Craigslist vehicles dataset, which is available on Kaggle at https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles. This project builds on that work. You will need to download the dataset, copy the data using SQL to a local PostgreSQL database, move the data from your local database to Snowflake, perform data transformation with DBT (data build tool), and use your preferred data visualization tool to create a report and dashboard.
+In week 4, we performed time series modeling on the Craigslist vehicles dataset, which is available on Kaggle at https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles. This project builds on that work. You will need to download the dataset, copy the data using SQL to a local PostgreSQL database, move the data from your local database to Snowflake, perform data transformation with DBT (data build tool), and use your preferred data visualization tool to create a report and dashboard.
 
 ---
 
-## **To be eligible for a certificate of completion, you must write five articles of at least 400 words each and complete all five projects. I know you can do this! You are a talented nerds and I believe in you. Writing these articles will help you improve your writing skills and learn a lot about the subject matter. They will also be a valuable addition to your portfolio.**
+## **To be eligible for a certificate of completion, you must write four articles of at least 400 words each and complete all four projects. I know you can do this! You are a talented nerds and I believe in you. Writing these articles will help you improve your writing skills and learn a lot about the subject matter. They will also be a valuable addition to your portfolio.**
 
 
 
