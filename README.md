@@ -190,7 +190,35 @@ In week 4, we performed time series modelling on the Craigslist vehicles dataset
 
 ### **Note.**
 
-**To be eligible for a certificate of completion, you must write four articles of at least 400 words each and complete all four projects. I know you can do this! You are a talented nerds and I believe in you. Writing these articles will help you improve your writing skills and learn a lot about the subject matter. They will also be a valuable addition to your portfolio.**
+**To be eligible for a certificate of completion, you must write four articles of at least 400 words each and complete all four projects. I know you can do this! You are a talented nerds and I believe in you. Writing these articles will help you improve your writing skills and learn a lot about the subject matter. They will also be a valuable addition to your portfolio.** 
+
+
+### **Important Road Maps.**
+
+1). Preparing for a Data Analyst career? Here's a roadmap:
+
+- Link: https://twitter.com/HarunMbaabu/status/1661389725247078401?s=19
+
+2). Complete Guide to Becoming a Data Scientist 
+
+- Link: https://twitter.com/HarunMbaabu/status/1688860573612564480?s=20
+
+3). Analytics Engineer Road-map With Free Resources : Modern Data Stack
+
+- Link: https://twitter.com/HarunMbaabu/status/1677273264144494595?s=19
+
+
+4). Ultimate Data Engineering Road Map: Become a Data Engineer In 2023. 
+
+- Link: https://twitter.com/HarunMbaabu/status/1634128799276122114?s=19
+
+**Bonus:** Different Ways to Make Money in Data Science. 
+
+- Link: https://twitter.com/HarunMbaabu/status/1684906732806434816?s=19
+  
+
+
+
 
 
 
