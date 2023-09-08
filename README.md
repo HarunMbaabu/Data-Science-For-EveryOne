@@ -215,6 +215,45 @@ In week 4, we performed time series modelling on the Craigslist vehicles dataset
 **Bonus:** Different Ways to Make Money in Data Science. 
 
 - Link: https://twitter.com/HarunMbaabu/status/1684906732806434816?s=19
+
+Learn More and Reference Materials: 
+
+1). Microsoft Excel:  
+
+2). Structured query language 
+
+3). Python 
+
+
+4). Power BI  
+
+
+5). Time Series  
+
+
+6). Sk-learn 
+
+
+7). Scala 
+
+
+8). Rust 
+
+
+9). Apache Kafka 
+
+
+10). Apache NiFi
+
+
+11). Apache SPark 
+
+
+
+
+
+
+
   
 
 
