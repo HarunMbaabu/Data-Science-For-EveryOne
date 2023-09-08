@@ -2,7 +2,7 @@
 
 **Data Science For Everyone** Program is [LuxDevHQ](https://twitter.com/LuxDevHQ) program that aims to make the field of data science accessible and understandable to a wide range of people, regardless of their background or expertise.
 
-In the program we recognizes that data science has the potential to bring valuable insights and solutions to various domains and industries, and therefore, it is important to demystify and democratize this field. 
+In the program, we recognize that data science has the potential to bring valuable insights and solutions to various domains and industries, and therefore, it is important to demystify and democratize this field. 
 
 Data science involves extracting knowledge and insights from large and complex datasets using various techniques, such as data mining, statistical analysis, machine learning, and visualization. Traditionally, data science has been associated with specialized skills and technical expertise, requiring a strong background in mathematics, statistics, programming, and domain knowledge.
 
@@ -11,7 +11,7 @@ This Free Bootcamp emphasizes the need for clear communication, intuitive visual
 Overall,  we are aiming to bridge the gap between technical experts and non-technical professionals, enabling a broader audience to leverage the power of data and make informed decisions based on evidence and insights derived from data analysis. 
 
 
-#### **Possible Data Sciencce Career Paths**
+#### **Possible Data Science Career Paths**
 
 ---
 
@@ -35,9 +35,9 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
 #### **Note:**
 - These are just a few of the many career paths within the data science and analytics field. Depending on your interests and skills, you may also consider roles such as Machine Learning Engineer, Business Intelligence Analyst, Statistician, or even specialized roles like Natural Language Processing (NLP) Engineer or Computer Vision Engineer. The field of data science is continually evolving, so there are always new opportunities and roles emerging as technology advances and businesses become more data-driven. It's important to choose a path that aligns with your interests and career goals.
   
-- Also note that we wull not be able to cover all the topics and concepts but we will set a solid foundation for your data career. 
+- Also note that we will not be able to cover all the topics and concepts but we will set a solid foundation for your data career. 
 
-#### **Course Overview - Program information :**
+#### **Course Overview - Program information:**
 
 - **Duration:** 5 Weeks.
   
@@ -45,19 +45,19 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
   
 ### **Week 1: Learn the fundamentals of data science.**
 
-- Understand the key concepts of data science and the possible data sciencce career paths.
+- Understand the key concepts of data science and the possible data science career paths.
 - Familiarize yourself with fundamental, that is statistical, mathematical, and programming concepts.
-- Learn the basics of Python and SQL for data manipulation, wrangling, and analysis Introduction to SQLand Python for data science.
-- Understand the fundamentals of data science,  statistics, probability, linear algebra, calculus, Python and SQL  programming langages.
+- Learn the basics of Python and SQL for data manipulation, wrangling, and analysis Introduction to SQL and Python for data science.
+- Understand the fundamentals of data science,  statistics, probability, linear algebra, calculus, Python and SQL  programming languages.
 - Introduce specific data visualization tools like Matplotlib and Seaborn. Provide hands-on exercises or tutorials for students to create visualizations using these tools.
   
- >> **Tools you will learn on week 1:** Python, SQL, pandas, numpy, matplotlib, seaborn and statistics module whic was introduced in Python 3.4
+ >> **Tools you will learn on week 1:** Python, SQL, pandas, numpy, matplotlib, seaborn and statistics module which was introduced in Python 3.4
   
 --- 
 Week 1 Classes: 
 
 (i). Wednesday, September 27th, 2023 8:00 PM EAT.
-- Wangui Ngina, Msc, Lecturer and Data Scientist. 
+- Wangui Ngina, MSc, Lecturer and Data Scientist. 
 - Recording: Not Available Yet
   
 (ii) Saturday, September 30th, 2023 10:00 AM EAT.
@@ -82,16 +82,16 @@ So, if you were in charge of predicting customer churn how would you go about us
 ### **Week 2: Learn Bascis Data Science Concepts.**
 
 - Learn about data visualization, exploratory data analysis (EDA), and basic statistical measures.
-- Learn about exploratory data analysis, feature engineering, and modelling using real world data.
+- Learn about exploratory data analysis, feature engineering, and modelling using real-world data.
 - Learn how problem statements, developing KPIs, Working and collaborating with a remote team, communacation skills, problem solving skills, and to write modern data resume.
 
-  >> **Tools you will learn on week 1:** Python, SQL, Pyspark, Problem Solving, and Non Technical Concepts
+  >> **Tools you will learn on week 1:** Python, SQL, Pyspark, Problem Solving, and Non-Technical Concepts
 
 --- 
 Week 2 Classes: 
 
 (i). Wednesday, October 4th, 2023 8:00 PM EAT.
-- Lucille Wanjiku,Data Scientist. 
+- Lucille Wanjiku, Data Scientist. 
 - Recording: Not Available Yet
   
 (ii) Saturday, October 7th, 2023 10:00 AM EAT.
@@ -124,7 +124,7 @@ In week 3, you will have some time to explore the different data science career 
 - Learn feature engineering, the process of transforming raw data into features that are more informative and useful for machine learning models.
 - Learn ensemble learning, a technique that combines multiple machine learning models to improve the overall performance.
 - Learn neural networks, a type of machine learning model that can learn complex relationships between features and labels.
-- LearnTime series analysis modeling, the process of analyzing data that is collected over time. This can be used to forecast future trends or identify patterns in the data.
+- LearnTime series analysis modelling, the process of analyzing data that is collected over time. This can be used to forecast future trends or identify patterns in the data.
 
 --- 
 Week 4 Classes: 
@@ -134,7 +134,7 @@ Week 4 Classes:
 - Recording: Not Available Yet
   
 (ii) Saturday, October 21th, 2023 10:00 AM EAT.
-- ********************, Analytics and Data Engineeer. 
+- ********************, Analytics and Data Engineer. 
 - Recording: Not Available Yet
 
 --- 
@@ -150,8 +150,8 @@ Using the Craigslist Vehicles Dataset available on Kaggle (https://www.kaggle.co
 - Ensure that the data types of the columns are appropriate. Specifically, make sure to convert the 'posting_date' column to a datetime data type.
 - Utilize the 'posting_date' column to create a datetime index for the dataset. This will facilitate the analysis of temporal patterns.
 - With clean data, explore it using various visualizations and statistical analysis techniques. This step is crucial for understanding temporal patterns, identifying seasonal trends, and analyzing demand-supply dynamics by region and vehicle type.
-- build the time-series chart.
-- Finally Create a github Repository and push your work there, also document your proccess through each of the steps and demonstrate your understanding by implementing them on the dataset.
+- Build the time-series chart.
+- Finally, create a GitHub Repository and push your work there, also document your process through each of the steps and demonstrate your understanding by implementing them on the dataset.
 
 ---
 
@@ -160,8 +160,8 @@ Using the Craigslist Vehicles Dataset available on Kaggle (https://www.kaggle.co
 
 - Clearly differentiate between Data Engineering and  Analytics Engineering.
 - Learn about ETL and ELT and when is the Best Time to use which method.
-- Master the modern data stack, how to optmized Python and SQL code, and track metrics, and impact as a team play in a data team.
-- Learn how to write modern data proffession cv/resumes, where you apply for data jobs, how to get started freelancing, and how to ptimize your chances of being hired.
+- Master the modern data stack, how to optimize Python and SQL code, track metrics, and impact as a team play in a data team.
+- Learn how to write modern data profession CVs/resumes, where you apply for data jobs, how to get started freelancing, and how to optimize your chances of being hired.
 
 --- 
 
@@ -179,12 +179,12 @@ As a lead data engineer at Data Science East Africa, you are responsible for bui
   
   (ii). How can we ensure the security and reliability of the data pipeline?
   
-  (iii). Implement this project, optimize your proccess, and create a GitHub repository where you will document all the proccesses including Screenshort, and a short video explaining the whole proccess. 
+  (iii). Implement this project, optimize your process, and create a GitHub repository where you will document all the processes including Screenshort, and a short video explaining the whole process. 
 
 
 2). Project 5.
 
-In week 4, we performed time series modeling on the Craigslist vehicles dataset, which is available on Kaggle at https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles. This project builds on that work. You will need to download the dataset, copy the data using SQL to a local PostgreSQL database, move the data from your local database to Snowflake, perform data transformation with DBT (data build tool), and use your preferred data visualization tool to create a report and dashboard.
+In week 4, we performed time series modelling on the Craigslist vehicles dataset, which is available on Kaggle at https://www.kaggle.com/datasets/mbaabuharun/craigslist-vehicles. This project builds on that work. You will need to download the dataset, copy the data using SQL to a local PostgreSQL database, move the data from your local database to Snowflake, perform data transformation with DBT (data build tool), and use your preferred data visualization tool to create a report and dashboard.
 
 ---
 
