@@ -57,11 +57,16 @@ Overall,  we are aiming to bridge the gap between technical experts and non-tech
 Week 1 Classes: 
 
 (i). Wednesday, September 27th, 2023 8:00 PM EAT.
-- Wangui Ngina, MSc, Lecturer and Data Scientist. 
+- Wangui Ngina, MSc, Lecturer and Data Scientist.
+  
+- Class Guide: https://docs.google.com/document/d/1xJSktD8EXBbrN2ETE8rjZq5rgcUtO4Q7a431sTWa21s/edit?usp=sharing  
+
 - Recording: Not Available Yet
   
 (ii) Saturday, September 30th, 2023 10:00 AM EAT.
-- Lains Wanjiku, Machine Learning Engineer and Data Analyst. 
+- Lains Wanjiku, Machine Learning Engineer and Data Analyst.
+  
+- Class Guide: https://docs.google.com/document/d/1BznXhlxiAH2lKbAcoUhTFynl90etGczmyfbVwZPpQMg/edit?usp=sharing
 - Recording: Not Available Yet
 
 --- 
