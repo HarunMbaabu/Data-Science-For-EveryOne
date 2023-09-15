@@ -84,7 +84,7 @@ So, if you were in charge of predicting customer churn how would you go about us
 
 --- 
 
-### **Week 2: Learn Bascis Data Science Concepts.**
+### **Week 2: Learn Basics Data Science Concepts.**
 
 - Learn about data visualization, exploratory data analysis (EDA), and basic statistical measures.
 - Learn about exploratory data analysis, feature engineering, and modelling using real-world data.
@@ -195,7 +195,7 @@ In week 4, we performed time series modelling on the Craigslist vehicles dataset
 
 ### **Note.**
 
-**To be eligible for a certificate of completion, you must write four articles of at least 400 words each and complete all four projects. I know you can do this! You are a talented nerds and I believe in you. Writing these articles will help you improve your writing skills and learn a lot about the subject matter. They will also be a valuable addition to your portfolio.** 
+**To be eligible for a certificate of completion, you must write four articles of at least 400 words each and complete all four projects. I know you can do this! You are talented nerds and I believe in you. Writing these articles will help you improve your writing skills and learn a lot about the subject matter. They will also be a valuable addition to your portfolio.** 
 
 
 ### **Important Road Maps.**
