@@ -96,11 +96,11 @@ So, if you were in charge of predicting customer churn how would you go about us
 Week 2 Classes: 
 
 (i). Wednesday, October 4th, 2023 8:00 PM EAT.
-- Lucille Wanjiku, Data Scientist. 
+- Wycliffe Bosire Data Scientist at BAT. 
 - Recording: Not Available Yet
   
 (ii) Saturday, October 7th, 2023 10:00 AM EAT.
-- Harun Mbaabu Mwenda, Analytics and Data Engineeer. 
+- Lucille Wanjiku, Data Scientist. 
 - Recording: Not Available Yet
 
 --- 
