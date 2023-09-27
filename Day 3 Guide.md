@@ -1,4 +1,4 @@
-### **DATA SCIENCE BOOT CAMP - DAY 2/25** 
+### **DATA SCIENCE BOOT CAMP - DAY 3/25** 
 
 Tody, Wednesday, September 27th, 2023 8:00 PM EAT (GMT+3) we will have our first Class. The class will be Hosted by Daisyfaith and the instructor will be Wangui Ngina, MSc, Lecturer and Data Scientist.
 
