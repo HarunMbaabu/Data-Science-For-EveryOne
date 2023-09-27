@@ -81,6 +81,7 @@ Week 1 Projects:
 So, if you were in charge of predicting customer churn how would you go about using machine learning to make a good guess about which customers might leave? Like, what steps would you take to create a machine learning model that can predict if someone's going to leave or not?
 
 **Question 2).** Let’s say you’re a Product Data Scientist at Instagram. How would you measure the success of the Instagram TV product?
+Determining the overall completion rate of your Instagram Tv product will tell you how many people have viewed it in its entirety. It's a fairly simple calculation: Divide the total number of people who viewed the last segment in your story by the total number of people who viewed the first segment.
 
 --- 
 
