@@ -1,5 +1,7 @@
 ### **Data Science For EveryOne Mentorship and BootCamp Program** 
 
+- **Last Day the changes were made: 5th July 2026.**
+
 **Data Science For Everyone** Program is [LuxDevHQ](https://twitter.com/LuxDevHQ) program that aims to make the field of data science accessible and understandable to a wide range of people, regardless of their background or expertise.
 
 In the program, we recognize that data science has the potential to bring valuable insights and solutions to various domains and industries, and therefore, it is important to demystify and democratize this field. 
